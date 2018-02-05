@@ -1,0 +1,32 @@
+﻿@model int
+
+@{
+    ViewBag.Title = "getMul";
+}
+
+<h2>getMul</h2>
+
+
+@if (Model > 0)
+{
+    <h3>@(Model) pos</h3>
+
+
+}
+else
+{
+    <h3>@(Model) neg</h3>
+}
+
+
+@switch (Model)
+{
+    case 0:
+        {  <h3>@(Model)  is zero</h3>}
+        break;
+    default:
+        {  <h3>@(Model)  is not zero</h3>}
+    break;
+}
+
+<h3>Mul mum: @(Model * 2)</h3>
