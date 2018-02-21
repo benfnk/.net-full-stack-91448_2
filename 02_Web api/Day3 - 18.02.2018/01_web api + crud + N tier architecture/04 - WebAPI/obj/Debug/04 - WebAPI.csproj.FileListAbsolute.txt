@@ -1,0 +1,41 @@
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\csc.exe
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\vbc.exe
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\03 - WebAPI.dll.config
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\03 - WebAPI.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\03 - WebAPI.pdb
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\02 - Business Entities Layer.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\03 - Business Logic Layer.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\EntityFramework.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Cors.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\01 - Data Access Layer.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\02 - Business Entities Layer.pdb
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\03 - Business Logic Layer.pdb
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\EntityFramework.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\bin\01 - Data Access Layer.pdb
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\obj\Debug\04 - WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\obj\Debug\03 - WebAPI.dll
+C:\Users\jbt\Desktop\db- system\04 - WebAPI\obj\Debug\03 - WebAPI.pdb

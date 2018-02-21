@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        function getOrderData(){
+            $.get( "http://localhost:53093/api/order/orders", function( data ) {
+            $("#loadData").text(data );
+        });
+        }
+
+
+        function getProductData(){
+            $.get( "http://localhost:53093/products", function( data ) {
+            $("#loadData").text(data );
+        });
+        }
+        </script>
+</head>
+<body>
+    <p id="loadData"></p>
+
+    <button onclick="getOrderData()">click me to get Order Data</button>
+    
+    <button onclick="getProductData()">click me to get Product Data</button>
+</body>
+</html>

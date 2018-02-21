@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+
+    <style>
+        label,input{
+            display:block;
+        }
+
+        input{
+            margin-bottom:10px;
+        }
+    </style>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+
+    <script>
+        function addStudentWithAjax() {
+            $.ajax({
+                type: "POST",
+                url: "/api/student",
+                data:   
+                {
+                    "Name": "Seffy",
+                    "Age": 16,
+                    "Grade": 100
+                },
+                success: (x) => { console.log(x);},
+                dataType: "application/JSON"
+            });
+          
+        }
+
+
+
+        function putStudentWithAjax() {
+            $.ajax({
+                type: "PUT",
+                url: "/api/student/3",
+                data:
+                {
+                    "Name": "Asher",
+                    "Age": 18,
+                    "Grade": 100
+                },
+                success: (x) => { console.log(x); },
+                dataType: "application/JSON"
+            });
+
+        }
+
+
+
+        function deleteStudentWithAjax() {
+            $.ajax({
+                type: "DELETE",
+                url: "/api/student/3",
+                success: (x) => { console.log(x); },
+                dataType: "application/JSON"
+            });
+
+        }
+
+    </script>
+</head>
+<body>
+
+    <h1>Add a new Student:</h1>
+    <form action="/api/student" method="post">
+       <label>
+           Name:
+        </label> 
+        <input name="Name" type="text"/>
+
+
+        <label>
+            Age:
+        </label> 
+        <input name="Age" type="number"/>
+
+        <label>
+            Grade:
+        </label> 
+        <input name="Grade" type="number"/>
+
+
+        <input type="submit" value="add student"/>
+    </form>
+
+    <button onclick="addStudentWithAjax()">add with ajax</button>
+    <button onclick="putStudentWithAjax()">edit with ajax</button>
+    <button onclick="deleteStudentWithAjax()">delete with ajax</button>
+</body>
+</html>

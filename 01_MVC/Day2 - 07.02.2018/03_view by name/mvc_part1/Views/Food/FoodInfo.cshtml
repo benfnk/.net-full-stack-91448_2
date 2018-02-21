@@ -1,0 +1,28 @@
+﻿@using mvc_part1.Models
+@model Food
+
+@{
+    ViewBag.Title = "FoodInfo";
+}
+
+<h2>FoodInfo</h2>
+<h2>Food Name:</h2>
+<p>@Model.FoodName</p>
+
+<h2>Food Calories:</h2>
+<p>@Model.Calories</p>
+
+@if (Model is Chips)
+{
+    <h2>You can eat Chips:</h2>
+    <p>@(((Chips)Model).IsAllowed)</p>
+}
+
+
+
+@if (Model is Salad)
+{
+    <h2>IsVeg:</h2>
+    <p>@(((Salad)Model).IsVeg)</p>
+}
+

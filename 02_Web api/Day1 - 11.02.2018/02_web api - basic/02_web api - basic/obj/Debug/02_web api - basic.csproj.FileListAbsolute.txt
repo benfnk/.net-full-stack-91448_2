@@ -1,0 +1,28 @@
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\csc.exe
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\vbc.exe
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\VBCSCompiler.exe
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\02_web api - basic.dll.config
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\02_web api - basic.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\02_web api - basic.pdb
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\Newtonsoft.Json.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Net.Http.Formatting.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Web.Http.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Web.Http.WebHost.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\Newtonsoft.Json.xml
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Net.Http.Formatting.xml
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Web.Http.xml
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\bin\System.Web.Http.WebHost.xml
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\obj\Debug\02_web api - basic.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\obj\Debug\02_web api - basic.dll
+C:\Users\jbt\Desktop\11.02.2018\02_web api - basic\02_web api - basic\obj\Debug\02_web api - basic.pdb

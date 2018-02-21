@@ -1,0 +1,14 @@
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Users\jbt\Desktop\db- system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb

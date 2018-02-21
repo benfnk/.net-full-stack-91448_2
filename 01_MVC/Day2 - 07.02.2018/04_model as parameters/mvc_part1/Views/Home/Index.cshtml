@@ -1,0 +1,60 @@
+﻿@using mvc_part1.Models
+@model Person
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>Info:</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            FullName:
+        </dd>
+        <dt>
+            @(Model.FullName)
+        </dt>
+
+        <dd>
+            Age:
+        </dd>
+        <dt>
+            @(Model.Age)
+        </dt>
+
+
+        @if (Model is Student)
+        {
+            <dd>
+                Grade:
+            </dd>
+            <dt>
+                @(((Student)Model).Grade)
+            </dt>
+
+
+
+            <dd>
+                SchoolName:
+            </dd>
+            <dt>
+                @(((Student)Model).SchoolName)
+            </dt>
+        }
+       
+        @if (Model is Manager)
+        {
+          
+            <dd>
+                Salary:
+            </dd>
+            <dt>
+                @(((Manager)Model).Salary)
+            </dt>
+        }
+    
+    </dl>
+</div>
