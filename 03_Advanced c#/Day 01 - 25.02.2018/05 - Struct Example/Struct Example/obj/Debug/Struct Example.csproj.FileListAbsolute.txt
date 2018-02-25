@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\bin\Debug\Struct Example.exe.config
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\bin\Debug\Struct Example.exe
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\bin\Debug\Struct Example.pdb
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\obj\Debug\Struct Example.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\obj\Debug\Struct Example.exe
+C:\Users\jbt\Desktop\02 - Struct Example\Struct Example\obj\Debug\Struct Example.pdb
