@@ -1,6 +1,0 @@
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\bin\Debug\00_val vs ref.exe.config
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\bin\Debug\00_val vs ref.exe
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\bin\Debug\00_val vs ref.pdb
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\obj\Debug\00_val vs ref.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\obj\Debug\00_val vs ref.exe
-C:\Users\jbt\Desktop\00_val vs ref\00_val vs ref\obj\Debug\00_val vs ref.pdb
