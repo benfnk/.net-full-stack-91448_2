@@ -1,0 +1,15 @@
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\bin\Debug\the extension methods.exe.config
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\obj\Debug\the extension methods.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\bin\Debug\the extension methods.exe
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\bin\Debug\the extension methods.pdb
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\obj\Debug\the extension methods.exe
+C:\Users\jbt\Desktop\Advanced C#\14-4-2016\the extension methods\the extension methods\obj\Debug\the extension methods.pdb
+H:\14-4-2016\the extension methods\the extension methods\bin\Debug\the extension methods.exe.config
+H:\14-4-2016\the extension methods\the extension methods\obj\Debug\the extension methods.exe
+H:\14-4-2016\the extension methods\the extension methods\obj\Debug\the extension methods.pdb
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\bin\Debug\the extension methods.exe.config
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\obj\Debug\the extension methods.exe
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\obj\Debug\the extension methods.pdb
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\bin\Debug\the extension methods.exe
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\bin\Debug\the extension methods.pdb
+C:\Users\jbt\Desktop\04.03.2018\the extension methods\the extension methods\obj\Debug\the extension methods.csprojResolveAssemblyReference.cache

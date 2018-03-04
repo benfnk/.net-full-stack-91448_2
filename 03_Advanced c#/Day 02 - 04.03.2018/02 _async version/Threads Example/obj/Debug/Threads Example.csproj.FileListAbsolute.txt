@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\bin\Debug\Threads Example.exe.config
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\bin\Debug\Threads Example.exe
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\bin\Debug\Threads Example.pdb
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\obj\Debug\Threads Example.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\obj\Debug\Threads Example.exe
+C:\Users\jbt\Desktop\04 - Threads Example\Threads Example\obj\Debug\Threads Example.pdb

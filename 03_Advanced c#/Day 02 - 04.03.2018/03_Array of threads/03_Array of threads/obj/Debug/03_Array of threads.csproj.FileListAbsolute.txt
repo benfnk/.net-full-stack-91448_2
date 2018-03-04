@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\bin\Debug\03_Array of threads.exe.config
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\bin\Debug\03_Array of threads.exe
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\bin\Debug\03_Array of threads.pdb
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\obj\Debug\03_Array of threads.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\obj\Debug\03_Array of threads.exe
+C:\Users\jbt\Desktop\04.03.2018\03_Array of threads\03_Array of threads\obj\Debug\03_Array of threads.pdb
