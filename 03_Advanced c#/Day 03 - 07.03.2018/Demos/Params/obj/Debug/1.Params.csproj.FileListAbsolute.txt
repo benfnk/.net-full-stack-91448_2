@@ -1,0 +1,10 @@
+C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.exe.config
+C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.exe
+C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.pdb
+C:\Users\jbt\Desktop\projects\Demos\Params\obj\Debug\Params.exe
+C:\Users\jbt\Desktop\projects\Demos\Params\obj\Debug\Params.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\bin\Debug\Params.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\obj\Debug\Params.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\obj\Debug\Params.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\bin\Debug\Params.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\bin\Debug\Params.pdb

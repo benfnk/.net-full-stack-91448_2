@@ -1,0 +1,28 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\bin\Debug\28.Threads.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\bin\Debug\28.Threads.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\bin\Debug\28.Threads.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\MainWindow.g.cs
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\App.g.cs
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads_MarkupCompile.cache
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads_MarkupCompile.lref
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\MainWindow.baml
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads.g.resources
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\_28.Threads.Properties.Resources.resources
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads.csproj.GenerateResource.Cache
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\28.Threads\obj\Debug\28.Threads.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\bin\Debug\28.Threads.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\bin\Debug\28.Threads.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\bin\Debug\28.Threads.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads_MarkupCompile.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads_MarkupCompile.lref
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads.g.resources
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\_28.Threads.Properties.Resources.resources
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\28.Threads\obj\Debug\28.Threads.csproj.GenerateResource.Cache

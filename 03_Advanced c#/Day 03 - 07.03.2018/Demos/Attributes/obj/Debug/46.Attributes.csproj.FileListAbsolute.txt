@@ -1,0 +1,15 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\46.Attributes.csprojResolveAssemblyReference.cache
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\Attributes.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\Attributes.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\Attributes.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\Attributes.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\bin\Debug\Attributes.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Attributes\obj\Debug\46.Attributes.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Demos\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\PC\Desktop\Demos\Attributes\obj\Debug\Attributes.exe
+C:\Users\PC\Desktop\Demos\Attributes\obj\Debug\Attributes.pdb

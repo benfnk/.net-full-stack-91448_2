@@ -1,0 +1,6 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\bin\Debug\Monitor.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\bin\Debug\Monitor.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\bin\Debug\Monitor.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\obj\Debug\Monitor.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Monitor\obj\Debug\Monitor.pdb

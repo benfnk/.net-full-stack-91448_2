@@ -1,0 +1,12 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.csprojResolveAssemblyReference.cache
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\bin\Debug\14.GenericCovariance.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\14.GenericCovariance\obj\Debug\14.GenericCovariance.csprojResolveAssemblyReference.cache

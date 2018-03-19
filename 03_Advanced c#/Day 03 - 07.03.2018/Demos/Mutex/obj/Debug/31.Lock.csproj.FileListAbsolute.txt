@@ -1,0 +1,11 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Mutex\obj\Debug\Mutex.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Mutex\obj\Debug\Mutex.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\obj\Debug\Mutex.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\obj\Debug\Mutex.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\bin\Debug\Mutex.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Mutex\obj\Debug\31.Lock.csprojResolveAssemblyReference.cache

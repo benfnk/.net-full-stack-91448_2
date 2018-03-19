@@ -1,0 +1,6 @@
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\bin\Debug\GenericsClassMethod.exe.config
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\bin\Debug\GenericsClassMethod.exe
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\bin\Debug\GenericsClassMethod.pdb
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\obj\Debug\8.GenericsClassMethod.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\obj\Debug\GenericsClassMethod.exe
+C:\Users\jbt\Documents\Demos\GenericsClassMethod\obj\Debug\GenericsClassMethod.pdb

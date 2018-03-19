@@ -1,0 +1,5 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\obj\Debug\Collections.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\obj\Debug\Collections.pdb

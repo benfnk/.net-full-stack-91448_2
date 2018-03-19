@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\bin\Debug\Timer.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\obj\Debug\Timer.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\obj\Debug\Timer.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\bin\Debug\Timer.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\bin\Debug\Timer.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Timer\obj\Debug\27.Timer.csprojResolveAssemblyReference.cache

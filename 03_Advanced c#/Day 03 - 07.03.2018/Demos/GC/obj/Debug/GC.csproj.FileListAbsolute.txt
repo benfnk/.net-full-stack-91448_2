@@ -1,0 +1,6 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\bin\Debug\GC.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\bin\Debug\GC.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\bin\Debug\GC.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\obj\Debug\GC.csprojResolveAssemblyReference.cache
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\obj\Debug\GC.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GC\obj\Debug\GC.pdb

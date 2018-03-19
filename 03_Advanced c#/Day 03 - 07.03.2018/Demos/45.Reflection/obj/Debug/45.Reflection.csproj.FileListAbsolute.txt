@@ -1,0 +1,12 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\obj\Debug\45.Reflection.csprojResolveAssemblyReference.cache
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\bin\Debug\45.Reflection.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\bin\Debug\45.Reflection.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\bin\Debug\45.Reflection.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\obj\Debug\45.Reflection.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\45.Reflection\obj\Debug\45.Reflection.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\bin\Debug\45.Reflection.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\obj\Debug\45.Reflection.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\obj\Debug\45.Reflection.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\bin\Debug\45.Reflection.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\bin\Debug\45.Reflection.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\45.Reflection\obj\Debug\45.Reflection.csprojResolveAssemblyReference.cache

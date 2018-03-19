@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\07.OperatorOverloading.csprojResolveAssemblyReference.cache

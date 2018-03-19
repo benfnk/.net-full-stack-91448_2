@@ -1,0 +1,9 @@
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\bin\Debug\AnonnymousFunctions.exe.config
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\bin\Debug\AnonnymousFunctions.exe
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\bin\Debug\AnonnymousFunctions.pdb
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\obj\Debug\AnonnymousFunctions.exe
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\obj\Debug\AnonnymousFunctions.pdb
+C:\Users\jbt\Desktop\projects\Demos\AnonnymousFunctions\obj\Debug\AnonnymousFunctions.csprojResolveAssemblyReference.cache
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AnonnymousFunctions\bin\Debug\AnonnymousFunctions.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AnonnymousFunctions\obj\Debug\AnonnymousFunctions.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AnonnymousFunctions\obj\Debug\AnonnymousFunctions.pdb

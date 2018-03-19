@@ -1,0 +1,6 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\bin\Debug\Var.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\bin\Debug\Var.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\bin\Debug\Var.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\obj\Debug\3.Var.csprojResolveAssemblyReference.cache
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\obj\Debug\Var.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Var\obj\Debug\Var.pdb

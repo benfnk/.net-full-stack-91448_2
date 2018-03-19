@@ -1,0 +1,3 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\bin\Debug\Params.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\obj\Debug\Params.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Params\obj\Debug\Params.pdb

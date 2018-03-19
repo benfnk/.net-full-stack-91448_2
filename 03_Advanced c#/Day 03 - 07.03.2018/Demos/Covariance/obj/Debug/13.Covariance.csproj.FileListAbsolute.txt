@@ -1,0 +1,3 @@
+C:\Users\jbt\Documents\Demos\Covariance\bin\Debug\Covariance.exe.config
+C:\Users\jbt\Documents\Demos\Covariance\obj\Debug\Covariance.exe
+C:\Users\jbt\Documents\Demos\Covariance\obj\Debug\Covariance.pdb

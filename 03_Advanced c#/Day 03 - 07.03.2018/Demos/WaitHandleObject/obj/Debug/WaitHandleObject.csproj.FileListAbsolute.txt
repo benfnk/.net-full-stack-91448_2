@@ -1,0 +1,5 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.pdb

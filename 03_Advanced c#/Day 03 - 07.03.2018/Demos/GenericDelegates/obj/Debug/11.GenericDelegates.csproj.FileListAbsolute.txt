@@ -1,0 +1,6 @@
+C:\Users\jbt\Documents\Demos\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+C:\Users\jbt\Documents\Demos\GenericDelegates\bin\Debug\GenericDelegates.exe
+C:\Users\jbt\Documents\Demos\GenericDelegates\bin\Debug\GenericDelegates.pdb
+C:\Users\jbt\Documents\Demos\GenericDelegates\obj\Debug\11.GenericDelegates.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Documents\Demos\GenericDelegates\obj\Debug\GenericDelegates.exe
+C:\Users\jbt\Documents\Demos\GenericDelegates\obj\Debug\GenericDelegates.pdb

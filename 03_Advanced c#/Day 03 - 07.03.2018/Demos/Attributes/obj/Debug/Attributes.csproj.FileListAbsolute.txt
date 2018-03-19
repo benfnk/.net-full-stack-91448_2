@@ -1,0 +1,5 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Attributes\bin\Debug\Attributes.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Attributes\obj\Debug\Attributes.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Attributes\obj\Debug\Attributes.pdb

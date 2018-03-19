@@ -1,0 +1,5 @@
+c:\users\omer haimovich\documents\visual studio 2017\Projects\Demos\Demos\bin\Debug\Demos.exe.config
+c:\users\omer haimovich\documents\visual studio 2017\Projects\Demos\Demos\bin\Debug\Demos.exe
+c:\users\omer haimovich\documents\visual studio 2017\Projects\Demos\Demos\bin\Debug\Demos.pdb
+c:\users\omer haimovich\documents\visual studio 2017\Projects\Demos\Demos\obj\Debug\Demos.exe
+c:\users\omer haimovich\documents\visual studio 2017\Projects\Demos\Demos\obj\Debug\Demos.pdb

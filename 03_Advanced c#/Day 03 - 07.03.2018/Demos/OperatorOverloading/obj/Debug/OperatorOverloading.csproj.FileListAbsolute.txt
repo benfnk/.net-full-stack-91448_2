@@ -1,0 +1,17 @@
+C:\Users\jbt\Desktop\projects\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\jbt\Desktop\projects\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\jbt\Desktop\projects\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\jbt\Desktop\projects\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\jbt\Desktop\projects\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Documents\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\jbt\Documents\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\jbt\Documents\Demos\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\jbt\Documents\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Documents\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\jbt\Documents\Demos\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

@@ -1,0 +1,12 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\39.AManualResetEvent.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AManualResetEvent\obj\Debug\39.AManualResetEvent.csprojResolveAssemblyReference.cache

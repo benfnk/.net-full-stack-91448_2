@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\bin\Debug\OptionalParams.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\obj\Debug\OptionalParams.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\obj\Debug\OptionalParams.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\bin\Debug\OptionalParams.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\bin\Debug\OptionalParams.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\OptionalParams\obj\Debug\17.OptionalParams.csprojResolveAssemblyReference.cache

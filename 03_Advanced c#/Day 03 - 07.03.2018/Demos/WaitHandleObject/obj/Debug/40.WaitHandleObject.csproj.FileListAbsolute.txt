@@ -1,0 +1,12 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\40.WaitHandleObject.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\WaitHandleObject.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\bin\Debug\WaitHandleObject.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\WaitHandleObject\obj\Debug\40.WaitHandleObject.csprojResolveAssemblyReference.cache

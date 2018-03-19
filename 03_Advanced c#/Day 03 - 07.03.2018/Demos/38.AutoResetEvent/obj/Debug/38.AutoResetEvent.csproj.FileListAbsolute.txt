@@ -1,0 +1,12 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.csprojResolveAssemblyReference.cache
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\bin\Debug\38.AutoResetEvent.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\38.AutoResetEvent\obj\Debug\38.AutoResetEvent.csprojResolveAssemblyReference.cache

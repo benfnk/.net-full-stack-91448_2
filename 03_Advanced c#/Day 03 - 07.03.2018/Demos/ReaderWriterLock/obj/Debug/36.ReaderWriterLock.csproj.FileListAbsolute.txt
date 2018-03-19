@@ -1,0 +1,12 @@
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\36.ReaderWriterLock.csprojResolveAssemblyReference.cache
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\ReaderWriterLock.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\ReaderWriterLock.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\ReaderWriterLock.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\ReaderWriterLock.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\bin\Debug\ReaderWriterLock.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ReaderWriterLock\obj\Debug\36.ReaderWriterLock.csprojResolveAssemblyReference.cache

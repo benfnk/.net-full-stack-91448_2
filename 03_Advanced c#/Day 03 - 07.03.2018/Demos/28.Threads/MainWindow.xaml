@@ -1,0 +1,14 @@
+﻿<Window x:Class="_28.Threads.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_28.Threads"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button Name="btScan" Content="Scan" Click="btScan_Click"></Button>
+        <Button Name="btChangeColor" Content="Change Color" Click="btChangeColor_Click"/>
+        <ProgressBar Name="pbScanProgress" Height="20" Background="AntiqueWhite"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\ParallelClass\bin\Debug\ParallelClass.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\ParallelClass\bin\Debug\ParallelClass.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\ParallelClass\bin\Debug\ParallelClass.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\ParallelClass\obj\Debug\ParallelClass.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\ParallelClass\obj\Debug\ParallelClass.pdb

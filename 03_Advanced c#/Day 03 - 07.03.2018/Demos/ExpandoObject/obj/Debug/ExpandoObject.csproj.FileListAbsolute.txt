@@ -1,0 +1,6 @@
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\bin\Debug\ExpandoObject.exe.config
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\bin\Debug\ExpandoObject.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\bin\Debug\ExpandoObject.pdb
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\obj\Debug\ExpandoObject.csprojResolveAssemblyReference.cache
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\obj\Debug\ExpandoObject.exe
+c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExpandoObject\obj\Debug\ExpandoObject.pdb

@@ -1,0 +1,18 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\bin\Debug\34.Mutex.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\bin\Debug\34.Mutex.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\bin\Debug\34.Mutex.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\obj\Debug\34.Mutex.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\obj\Debug\34.Mutex.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\34.Mutex\obj\Debug\34.Mutex.csprojResolveAssemblyReference.cache
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\bin\Debug\34.Mutex.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\34.Mutex\obj\Debug\34.Mutex.csprojResolveAssemblyReference.cache

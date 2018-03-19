@@ -1,0 +1,15 @@
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\bin\Debug\Demos.exe.config
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\bin\Debug\Demos.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\bin\Debug\Demos.pdb
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\obj\Debug\01.Params.csprojResolveAssemblyReference.cache
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\obj\Debug\Demos.exe
+C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Demos\obj\Debug\Demos.pdb
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Demos\bin\Debug\Demos.exe.config
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Demos\obj\Debug\Demos.exe
+O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\Demos\obj\Debug\Demos.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\bin\Debug\Demos.exe.config
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\obj\Debug\Demos.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\obj\Debug\Demos.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\bin\Debug\Demos.exe
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\bin\Debug\Demos.pdb
+C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Demos\obj\Debug\01.Params.csprojResolveAssemblyReference.cache
