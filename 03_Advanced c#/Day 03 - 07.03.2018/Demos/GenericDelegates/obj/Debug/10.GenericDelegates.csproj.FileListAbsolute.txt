@@ -1,1 +1,0 @@
-O:\NET Courses\קורס C# מתקדם\הדגמות\Demos\GenericDelegates\bin\Debug\GenericDelegates.exe.config

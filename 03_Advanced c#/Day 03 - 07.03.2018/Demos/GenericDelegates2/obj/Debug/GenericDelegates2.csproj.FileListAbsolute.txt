@@ -1,6 +1,0 @@
-C:\Users\jbt\Documents\Demos\GenericDelegates2\bin\Debug\GenericDelegates2.exe.config
-C:\Users\jbt\Documents\Demos\GenericDelegates2\bin\Debug\GenericDelegates2.exe
-C:\Users\jbt\Documents\Demos\GenericDelegates2\bin\Debug\GenericDelegates2.pdb
-C:\Users\jbt\Documents\Demos\GenericDelegates2\obj\Debug\GenericDelegates2.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Documents\Demos\GenericDelegates2\obj\Debug\GenericDelegates2.exe
-C:\Users\jbt\Documents\Demos\GenericDelegates2\obj\Debug\GenericDelegates2.pdb

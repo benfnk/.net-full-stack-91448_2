@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\bin\Debug\GenericsConstraints.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\bin\Debug\GenericsConstraints.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\bin\Debug\GenericsConstraints.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\obj\Debug\GenericsConstraints.csprojResolveAssemblyReference.cache
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\obj\Debug\GenericsConstraints.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericsConstraints\obj\Debug\GenericsConstraints.pdb

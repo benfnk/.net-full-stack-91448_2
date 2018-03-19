@@ -1,6 +1,0 @@
-C:\Users\jbt\Documents\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
-C:\Users\jbt\Documents\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe
-C:\Users\jbt\Documents\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
-C:\Users\jbt\Documents\Demos\ExtensionMethods\obj\Debug\03.ExtensionMethods.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Documents\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.exe
-C:\Users\jbt\Documents\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

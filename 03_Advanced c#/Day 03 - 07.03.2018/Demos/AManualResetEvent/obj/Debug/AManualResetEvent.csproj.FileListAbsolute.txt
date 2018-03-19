@@ -1,6 +1,0 @@
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe.config
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\bin\Debug\AManualResetEvent.pdb
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.csprojResolveAssemblyReference.cache
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\AManualResetEvent\obj\Debug\AManualResetEvent.pdb

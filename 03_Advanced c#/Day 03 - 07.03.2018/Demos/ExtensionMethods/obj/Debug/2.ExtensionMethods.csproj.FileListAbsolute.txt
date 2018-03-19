@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\ExtensionMethods\obj\Debug\2.ExtensionMethods.csprojResolveAssemblyReference.cache

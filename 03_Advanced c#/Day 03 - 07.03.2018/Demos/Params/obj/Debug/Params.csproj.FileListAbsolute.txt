@@ -1,6 +1,0 @@
-C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.exe.config
-C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.exe
-C:\Users\jbt\Desktop\projects\Demos\Params\bin\Debug\Params.pdb
-C:\Users\jbt\Desktop\projects\Demos\Params\obj\Debug\Params.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\projects\Demos\Params\obj\Debug\Params.exe
-C:\Users\jbt\Desktop\projects\Demos\Params\obj\Debug\Params.pdb

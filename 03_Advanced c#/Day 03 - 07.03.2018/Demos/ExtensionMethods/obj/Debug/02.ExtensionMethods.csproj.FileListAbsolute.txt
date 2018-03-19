@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\ExtensionMethods\obj\Debug\02.ExtensionMethods.csprojResolveAssemblyReference.cache

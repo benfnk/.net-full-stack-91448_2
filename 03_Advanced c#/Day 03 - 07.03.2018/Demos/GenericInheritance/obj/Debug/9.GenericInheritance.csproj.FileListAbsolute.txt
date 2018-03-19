@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\bin\Debug\GenericInheritance.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\bin\Debug\GenericInheritance.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\bin\Debug\GenericInheritance.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\obj\Debug\9.GenericInheritance.csprojResolveAssemblyReference.cache
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\obj\Debug\GenericInheritance.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\GenericInheritance\obj\Debug\GenericInheritance.pdb

@@ -1,6 +1,0 @@
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\bin\Debug\Mutex.exe.config
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\bin\Debug\Mutex.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\bin\Debug\Mutex.pdb
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\obj\Debug\Mutex.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\obj\Debug\Mutex.pdb
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Mutex\obj\Debug\Mutex.csprojResolveAssemblyReference.cache

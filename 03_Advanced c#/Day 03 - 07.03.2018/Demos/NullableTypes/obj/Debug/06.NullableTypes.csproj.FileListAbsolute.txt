@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\bin\Debug\NullableTypes.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\obj\Debug\NullableTypes.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\obj\Debug\NullableTypes.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\bin\Debug\NullableTypes.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\bin\Debug\NullableTypes.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\NullableTypes\obj\Debug\06.NullableTypes.csprojResolveAssemblyReference.cache

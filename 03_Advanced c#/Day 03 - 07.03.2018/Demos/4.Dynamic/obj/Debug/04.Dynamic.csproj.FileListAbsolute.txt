@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\bin\Debug\4.Dynamic.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\obj\Debug\4.Dynamic.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\obj\Debug\4.Dynamic.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\bin\Debug\4.Dynamic.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\bin\Debug\4.Dynamic.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\4.Dynamic\obj\Debug\04.Dynamic.csprojResolveAssemblyReference.cache

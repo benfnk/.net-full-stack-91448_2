@@ -1,5 +1,0 @@
-C:\Users\jbt\Desktop\projects\Demos\NullableTypes\bin\Debug\NullableTypes.exe.config
-C:\Users\jbt\Desktop\projects\Demos\NullableTypes\bin\Debug\NullableTypes.exe
-C:\Users\jbt\Desktop\projects\Demos\NullableTypes\bin\Debug\NullableTypes.pdb
-C:\Users\jbt\Desktop\projects\Demos\NullableTypes\obj\Debug\NullableTypes.exe
-C:\Users\jbt\Desktop\projects\Demos\NullableTypes\obj\Debug\NullableTypes.pdb

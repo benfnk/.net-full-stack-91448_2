@@ -1,6 +1,0 @@
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\bin\Debug\Semaphores.exe.config
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\bin\Debug\Semaphores.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\bin\Debug\Semaphores.pdb
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\obj\Debug\Semaphores.csprojResolveAssemblyReference.cache
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\obj\Debug\Semaphores.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Semaphores\obj\Debug\Semaphores.pdb

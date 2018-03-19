@@ -1,5 +1,0 @@
-C:\Users\jbt\Desktop\projects\Demos\Dynamic\bin\Debug\Dynamic.exe.config
-C:\Users\jbt\Desktop\projects\Demos\Dynamic\bin\Debug\Dynamic.exe
-C:\Users\jbt\Desktop\projects\Demos\Dynamic\bin\Debug\Dynamic.pdb
-C:\Users\jbt\Desktop\projects\Demos\Dynamic\obj\Debug\Dynamic.exe
-C:\Users\jbt\Desktop\projects\Demos\Dynamic\obj\Debug\Dynamic.pdb

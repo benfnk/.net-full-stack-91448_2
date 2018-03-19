@@ -1,9 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\bin\Debug\Collections.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\obj\Debug\Collections.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Collections\obj\Debug\Collections.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Collections\bin\Debug\Collections.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Collections\obj\Debug\Collections.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Collections\obj\Debug\Collections.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Collections\obj\Debug\15.Collections.csprojResolveAssemblyReference.cache

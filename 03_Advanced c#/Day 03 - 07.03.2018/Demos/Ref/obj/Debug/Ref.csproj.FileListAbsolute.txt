@@ -1,5 +1,0 @@
-C:\Users\jbt\Desktop\projects\Demos\Ref\bin\Debug\Ref.exe.config
-C:\Users\jbt\Desktop\projects\Demos\Ref\bin\Debug\Ref.exe
-C:\Users\jbt\Desktop\projects\Demos\Ref\bin\Debug\Ref.pdb
-C:\Users\jbt\Desktop\projects\Demos\Ref\obj\Debug\Ref.exe
-C:\Users\jbt\Desktop\projects\Demos\Ref\obj\Debug\Ref.pdb

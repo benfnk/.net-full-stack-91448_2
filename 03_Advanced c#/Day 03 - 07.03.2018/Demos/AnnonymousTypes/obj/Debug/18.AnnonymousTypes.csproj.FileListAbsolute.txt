@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\obj\Debug\AnnonymousTypes.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\obj\Debug\AnnonymousTypes.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\AnnonymousTypes\obj\Debug\18.AnnonymousTypes.csprojResolveAssemblyReference.cache

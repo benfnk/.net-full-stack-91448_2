@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\bin\Debug\AnnonymousFunctions.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\bin\Debug\AnnonymousFunctions.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\bin\Debug\AnnonymousFunctions.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\obj\Debug\5.AnnonymousFunctions.csprojResolveAssemblyReference.cache
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\obj\Debug\AnnonymousFunctions.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousFunctions\obj\Debug\AnnonymousFunctions.pdb

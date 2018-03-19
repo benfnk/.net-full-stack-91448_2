@@ -1,6 +1,0 @@
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\bin\Debug\Process.exe.config
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\bin\Debug\Process.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\bin\Debug\Process.pdb
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\obj\Debug\Process.exe
-C:\Users\Omer Haimovich\Documents\Visual Studio 2017\Projects\Demos\Process\obj\Debug\Process.pdb

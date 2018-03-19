@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\bin\Debug\AnnonymousTypes.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\obj\Debug\AnnonymousTypes.csprojResolveAssemblyReference.cache
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\obj\Debug\AnnonymousTypes.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\AnnonymousTypes\obj\Debug\AnnonymousTypes.pdb

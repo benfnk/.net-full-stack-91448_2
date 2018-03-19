@@ -1,5 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Timer\bin\Debug\Timer.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Timer\bin\Debug\Timer.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Timer\bin\Debug\Timer.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Timer\obj\Debug\Timer.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Timer\obj\Debug\Timer.pdb

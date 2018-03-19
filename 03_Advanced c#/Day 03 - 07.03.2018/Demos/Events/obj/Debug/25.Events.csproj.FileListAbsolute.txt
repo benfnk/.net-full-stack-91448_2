@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\bin\Debug\Events.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\obj\Debug\Events.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\obj\Debug\Events.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\bin\Debug\Events.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\bin\Debug\Events.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Events\obj\Debug\25.Events.csprojResolveAssemblyReference.cache

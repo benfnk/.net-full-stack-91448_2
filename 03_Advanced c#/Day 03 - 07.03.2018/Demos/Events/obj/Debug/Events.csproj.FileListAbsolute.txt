@@ -1,6 +1,0 @@
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\bin\Debug\Events.exe.config
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\bin\Debug\Events.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\bin\Debug\Events.pdb
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\obj\Debug\Events.exe
-c:\Users\omer haimovich\documents\visual studio 2017\Projects\Demos\Events\obj\Debug\Events.pdb

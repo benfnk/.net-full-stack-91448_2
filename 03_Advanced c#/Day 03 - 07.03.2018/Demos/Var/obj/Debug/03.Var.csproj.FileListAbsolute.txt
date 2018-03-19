@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\bin\Debug\Var.exe.config
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\obj\Debug\Var.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\obj\Debug\Var.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\bin\Debug\Var.exe
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\bin\Debug\Var.pdb
-C:\Users\PC\Desktop\קורס C# מתקדם\הדגמות\Demos\Var\obj\Debug\03.Var.csprojResolveAssemblyReference.cache
