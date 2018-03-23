@@ -1,6 +1,0 @@
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\bin\Debug\selfInvoke.exe.config
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\bin\Debug\selfInvoke.exe
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\bin\Debug\selfInvoke.pdb
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\obj\Debug\selfInvoke.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\obj\Debug\selfInvoke.exe
-C:\Users\jbt\Desktop\selfInvoke\selfInvoke\obj\Debug\selfInvoke.pdb
